@@ -1,0 +1,90 @@
+[
+	{
+		"partial": "no country for old men (2007)",
+		"cloze": "country"
+	},
+	{
+		"partial": "all quiet on the western front (1930)",
+		"cloze": "western"
+	},
+	{
+		"partial": "the boy in the striped pajamas (2008)",
+		"cloze": "pajamas"
+	},
+	{
+		"partial": "children of the corn (1984)",
+		"cloze": "corn"
+	},
+	{
+		"partial": "the pursuit of happyness (2006)",
+		"cloze": "happiness"
+	},
+	{
+		"partial": "Frankly, my dear, I don't give a damn.",
+		"cloze": "damn"
+	},
+	{
+		"partial": "I'm gonna make him an offer he can't refuse",
+		"cloze": "refuse"
+	},
+	{
+		"partial": "May the force be with you",
+		"cloze": "force"
+	},
+	{
+		"partial": "I ate his liver with some fava beans and a nice Chianti",
+		"cloze": "liver"
+	},
+	{
+		"partial": "Show me the money",
+		"cloze": "money"
+	},
+		{
+		"partial": "You can't handle the truth!",
+		"cloze": "handle"
+	},
+	{
+		"partial": "You're gonna need a bigger boat.",
+		"cloze": "boat"
+	},
+	{
+		"partial": "Mama always said life was like a box of chocolates. You never know what you're gonna get",
+		"cloze": "chocolates"
+	},
+	{
+		"partial": "houston, we have a problem",
+		"cloze": "houston"
+	},
+	{
+		"partial": "As God is my witness, I'll never be hungry again",
+		"cloze": "hungry"
+	},
+	{
+		"partial": "Say 'hello' to my little friend!",
+		"cloze": "little"
+	},
+	{
+		"partial": "Mrs. Robinson, you're trying to seduce me.",
+		"cloze": "seduce"
+	},
+	{
+		"partial": "slave, you will remove your helmet and tell me your name.",
+		"cloze": "slave"
+	},
+	{
+		"partial": "A martini, shaken, not stirred",
+		"cloze": "shaken"
+	},
+	{
+		"partial": "I feel the need—the need for speed",
+		"cloze": "speed"
+	},
+		{
+		"partial": "Nobody puts Baby in the corner",
+		"cloze": "corner"
+	},
+	{
+		"partial": "I'm the king of the world!",
+		"cloze": "king"
+	}
+]
